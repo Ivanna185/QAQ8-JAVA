@@ -21,9 +21,9 @@ public class HomeWork2Task1 {
         System.out.println(string3);
         string3 = string3 + " it is perfect ";
         System.out.println("srting3 = " + string3);
-        System.out.println("srting1 = " + string1.length());;
-        System.out.println("srting2 = " + string2.length());;
-        System.out.println("srting3 = " + string3.length());;
+        System.out.println("srting1 = " + string1.length());
+        System.out.println("srting2 = " + string2.length());
+        System.out.println("srting3 = " + string3.length());
 
 
 
